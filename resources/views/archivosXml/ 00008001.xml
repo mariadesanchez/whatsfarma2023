@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1"?><MensajeADESFA version="2.0"><EncabezadoMensaje><Rta><CodRtaGeneral>00</CodRtaGeneral>
+<Descripcion>Aceptada</Descripcion>
+<Mensaje>IOMA UN SERVICIO IOMA
+</Mensaje>
+</Rta>
+<NroReferencia>001254526414</NroReferencia>
+<TipoMsj>210</TipoMsj>
+<CodAccion>290020</CodAccion>
+<IdMsj>000080</IdMsj>
+<InicioTrx><Fecha>20161201</Fecha>
+<Hora>125645</Hora>
+</InicioTrx>
+<Terminal><Tipo /><Numero>1</Numero>
+</Terminal>
+<Prestador><Cuit /><Sucursal /><RazonSocial>INTERNACIONAL</RazonSocial>
+<Codigo>11403</Codigo>
+<Direccion /><CodParaFinanciador>22572</CodParaFinanciador>
+</Prestador>
+<SetCaracteres /></EncabezadoMensaje>
+<EncabezadoReceta><Prescriptor><Apellido /><Nombre /><TipoMatricula>P</TipoMatricula>
+<Provincia /><NroMatricula>13832</NroMatricula>
+<TipoPrescriptor>M</TipoPrescriptor>
+<Cuit /><Especialidad /></Prescriptor>
+<Beneficiario><TipoDoc /><NroDoc /><Apellido>FERNANDEZ TOSI ROSE MARI</Apellido>
+<Nombre>FERNANDEZ TOSI ROSE MARI</Nombre>
+<Sexo>F</Sexo>
+<FechaNacimiento /><Parentesco /><EdadUnidad /><Edad>77</Edad>
+</Beneficiario>
+<Financiador><Codigo>9880</Codigo>
+<Cuit /><Sucursal /><RazonSocial>IOMA</RazonSocial>
+<Direccion>Calle 46 886 La Plata</Direccion>
+</Financiador>
+<Credencial><Numero>960758831900</Numero>
+<Version /><Vencimiento /><ModoIngreso>A</ModoIngreso>
+<EsProvisorio /><Plan>1</Plan>
+</Credencial>
+<CoberturaEspecial /><Preautorizacion><Codigo /><Fecha /></Preautorizacion>
+<FechaReceta>20161123</FechaReceta>
+<Formulario><Fecha /><Tipo>001</Tipo>
+<Numero>1608698044604</Numero>
+<Serie /></Formulario>
+<TipoTratamiento>N</TipoTratamiento>
+<Diagnostico /><Institucion><Codigo /><Cuit /><Sucursal /></Institucion>
+<Retira><Apellido /><Nombre /><TipoDoc /><NroDoc /><NroTelefono /></Retira>
+<RtaAdicional><Linea><Codigo>0</Codigo>
+<Mensaje /></Linea>
+</RtaAdicional>
+</EncabezadoReceta>
+<DetalleReceta><Item><NroItem>1</NroItem>
+<CodBarras>7795345012797</CodBarras>
+<CodTroquel>2844724</CodTroquel>
+<Alfabeta>0000000034960</Alfabeta>
+<Kairos /><Codigo /><ImporteUnitario>202.07</ImporteUnitario>
+<Descripcion>LOTRIAL                       10 MG COMP.X 60     </Descripcion>
+<CodRta>00</CodRta>
+<MensajeRta>Item Aprobado</MensajeRta>
+<CodAutorizacion>432357</CodAutorizacion>
+<CantidadSolicitada>1</CantidadSolicitada>
+<CantidadAprobada>01</CantidadAprobada>
+<PorcentajeCobertura>78.98</PorcentajeCobertura>
+<ImporteACargoAfiliado /><ImporteCobertura>159.60</ImporteCobertura>
+<ExcepcionPrescripcion /><Diagnostico /><DosisDiaria /><DiasTratamiento /><Generico>M</Generico>
+<CodConflicto /><CodIntervencion /><CodAccion /><CodSeveridad /></Item>
+<Item><NroItem>2</NroItem>
+<CodBarras>7795338013442</CodBarras>
+<CodTroquel>4605354</CodTroquel>
+<Alfabeta>0000000024174</Alfabeta>
+<Kairos /><Codigo /><ImporteUnitario>175.03</ImporteUnitario>
+<Descripcion>PANTUS 20                     COMP.GASTRORRES.X 30</Descripcion>
+<CodRta>00</CodRta>
+<MensajeRta>Item Aprobado</MensajeRta>
+<CodAutorizacion>432358</CodAutorizacion>
+<CantidadSolicitada>2</CantidadSolicitada>
+<CantidadAprobada>02</CantidadAprobada>
+<PorcentajeCobertura>57.32</PorcentajeCobertura>
+<ImporteACargoAfiliado /><ImporteCobertura>100.32</ImporteCobertura>
+<ExcepcionPrescripcion /><Diagnostico /><DosisDiaria /><DiasTratamiento /><Generico>M</Generico>
+<CodConflicto /><CodIntervencion /><CodAccion /><CodSeveridad /></Item>
+</DetalleReceta>
+</MensajeADESFA>
